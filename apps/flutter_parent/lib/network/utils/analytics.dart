@@ -30,6 +30,7 @@ class AnalyticsEventConstants {
   static String get SWITCH_USERS => 'switch_users';
   static String get HELP_LOGIN => 'help_login';
   static String get HELP_DOMAIN_SEARCH => 'help_domain_search';
+  static String get VIEWED_OLD_REMINDER_MESSAGE => 'viewed_old_reminder_message';
   static String get ADD_STUDENT_MANAGE_STUDENTS => 'add_student_manage_students';
   static String get ADD_STUDENT_DASHBOARD => 'add_student_dashboard';
 }
